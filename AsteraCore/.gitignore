@@ -1,0 +1,72 @@
+<<<<<<< HEAD
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+.next/
+out/
+build/
+dist/
+.npm/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Secrets
+*.key
+*.pem
+*.crt
+secrets.yaml
+secrets.yml
+.env.local
+.env.production
+
+# Test
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+
+# Logs
+*.log
+logs/
+
+# Docker
+*.pid
+
+# Kubernetes
+kubeconfig
+
+# v0 sandbox internal files
+=======
+>>>>>>> 0075440 (chore: add root CI workflow and simplify gitignore)
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+.snowflake/
+.v0-trash/
+.vercel/
+next.user-config.*
+
+.env*.local
+
+node_modules
+.next/
+.DS_Store
