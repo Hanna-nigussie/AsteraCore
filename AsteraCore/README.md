@@ -733,23 +733,3 @@ pytest tests/test_concurrency.py
 pytest tests/test_integrity.py
 ```
 
-# 👥 Team
-
-- Tsegay Assefa
-- Weldesilassie
-- Chekole
-
-# 📝 License
-
-MIT License - see LICENSE for details
-
-# 🙏 Acknowledgments
-
-- Kifiya Financial Technology for the hackathon opportunity
-- Ethiopian National ID (Fayda) program for integration inspiration
-- Dr. Natnael Argaw for judging and guidance
-
-# 📞 Contact
-
-- Organization: https://github.com/asteracore
-- Repository: https://github.com/asteracore/asteracore
