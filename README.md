@@ -10,6 +10,7 @@ B. Intelligent eKYC Orchestration	Fayda National ID integration, OCR+NLP, synthe
 C. Digital Identity System	Identity lifecycle, selective disclosure, secure vault, identity recovery
 D. Federated SSO	OAuth2/OIDC, consent management, cross-border federation, biometric-backed SSO
 E. Card-Based Identity & Transaction	Virtual cards, biometric binding, offline payments, dynamic CVV, tokenization
+
 🏆 Key features
 Immutable Event Store: Every action is recorded as an append-only event — complete audit trail
 Cryptographic Hash Chain: SHA-256 tamper-evident security — bank-grade integrity
@@ -18,6 +19,7 @@ Gas Town Pattern: Agent memory survives crashes — zero data loss
 Optimistic Concurrency: Prevents double-spending — handles race conditions
 Fayda Integration: Native Ethiopian National ID support — local relevance
 Offline Payments: Sequence-protected QR vouchers — financial inclusion
+
 🛠️ Technology Stack
 Layer	Technology
 Backend	Python 3.11, FastAPI, SQLAlchemy, Pydantic
@@ -26,6 +28,8 @@ AI/ML	TensorFlow 2.15, OpenCV, MediaPipe, XGBoost, FaceNet
 Frontend	Next.js 14, React, TypeScript, TailwindCSS, Shadcn UI
 Infrastructure	Docker, Kubernetes, Redis, Nginx
 Security	OAuth2/OIDC, JWT, AES-256, Cryptography
+
+
 🚀 Quick Start
 Prerequisites
 Docker Desktop (for local development)
